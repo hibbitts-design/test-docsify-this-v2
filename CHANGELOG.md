@@ -29,7 +29,7 @@
 
 **Improved:**
 * Updated ReadMe
-* Renamed 'Publish as a Standalone Web Page' button to 'Publish as a Web Page' and updated related docs
+* Minor Web Page Builder UI updates
 
 ## [1.9.11] - 09/03/2024🏫
 

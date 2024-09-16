@@ -743,7 +743,7 @@ _Docsify-This.net open and collaborative workflow using GitHub Markdown files._
 </div>
 <div class="column">
 
-![Docsify-This.net workflow using Webserver Markdown files](images/docsify-this-Webserver.jpg ':class=image-border-rounded')
+![Docsify-This.net workflow using Webserver Markdown files](images/docsify-this-webserver.jpg ':class=image-border-rounded')
 _Docsify-This.net workflow using Webserver Markdown files._
 
 </div>
