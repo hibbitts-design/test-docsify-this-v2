@@ -470,8 +470,8 @@ _Docsify-This.net open and collaborative workflow using GitHub Markdown files._
 </div>
 <div class="column">
 
-![Docsify-This.net workflow using webserver Markdown files](docs/images/docsify-this-Webserver.jpg ':class=image-border-rounded')
-_Docsify-This.net workflow using webserver Markdown files._
+![Docsify-This.net workflow using Webserver Markdown files](docs/images/docsify-this-Webserver.jpg ':class=image-border-rounded')
+_Docsify-This.net workflow using Webserver Markdown files._
 
 </div>
 </div>
@@ -702,7 +702,7 @@ Scale images with border to %.
 Make raw HTML images that include size dimensions responsive.
 
 ```html
-<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-Web-page-builder.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Web Page Builder">
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-web-page-builder.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Web Page Builder">
 ```
 
 ##### row/column
@@ -1059,7 +1059,7 @@ The quickest way to create such a shareable URL is to use the Docsify-Web Page B
 ##### Use of Camel case (e.g. camelCase) format for Docsify-This URL parameter names instead of hyphenated names
 You can use [camel case](https://en.wikipedia.org/wiki/Camel_case) instead of hyphens for the names of Docsify-This URL parameters if prefered. For example, https://paulhibbitts.github.io/test-docsify-this?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&toc=true&toc-headings=h2,h3&edit-link=https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md and https://paulhibbitts.github.io/test-docsify-this?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&toc=true&tocHeadings=h2,h3&editLink=https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md are equilivent.
 
-##### Use of New web Editor GitHub.dev
+##### Use of New Web Editor GitHub.dev
 To use the new GitHub.dev web editor (currently in Beta) for 'Edit this Page' links, change `github.com` to `github.dev` for GitHub.com files entered into the Web Page Builder Markdown File URL field.
 
 ---
