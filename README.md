@@ -11,7 +11,7 @@
 
 This open-source web app, built with the magical documentation site generator [Docsify](https://docsify.js.org) (v5 Preview), serves as an entry point to [Markdown](https://en.wikipedia.org/wiki/Markdown) open publishing. It lets you quickly publish online Markdown files as web pages without setting up your own website.  
 
-![ Docsify-This](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-Web-page-builder.png)
+![ Docsify-This](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v2-web-page-builder.png)
 _Figure 1. [Docsify-This.net](https://docsify-this.net) Web Page Builder._
 
 ## All About Docsify-This
