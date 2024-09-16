@@ -315,7 +315,7 @@ Looking for an overall introduction to publishing with Docsify-This? Check out [
 — J. Maxwell (Director & Associate Professor in the Publishing Program at Simon Fraser University)
 
 > Best tool I’ve found in years - this is one of those creations that is just done right, all the way to the core.  
-— D. Malawey (Multidisciplinary Lab Coordinator, Texas A&M University, United States)
+— D. Malawey (Multidisciplinary Lab Coordinator, Texas A&M University)
 
 > Docsify-This has significantly improved my WordPress themes by being able to seamlessly embed into the interface the same documentation I use in the GitHub repository. This in turn has lead me to write better docs! I've barely scratched the surface of what Docsify-This can do as a simple-to-use web publishing tool.  
 — A. Levine aka CogDog (Independent Educational Technologist)
@@ -1241,7 +1241,7 @@ The following style prefixes are available with Docsify-This:
 * [Website with zoomable images](https://docsify-this-test-v2.netlify.app/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadSidebar=_sidebar.md&loadFavicon=favicon.png&name=Design%20Portfolio&zoom-images=true "Docsify-This Visual Portfolio")
 * [Website with pagination](https://docsify-this-test-v2.netlify.app/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadSidebar=_sidebar.md&loadFavicon=favicon.png&name=Design%20Portfolio&pagination=true#/ "Docsify-This Visual Portfolio")  
 
-[Markdown Student Portfolio Starter Template](https://github.com/paulhibbitts/docsify-this-markdown-portfolio-starter) (based on [Markdown Portfolio Template](https://github.com/thoresonjd/markdown-portfolio-template) by [Justin Thoreson](https://github.com/thoresonjd)) which is viewable on both GitHub and with Docsify-This.net, displayed by Docsify-This as a:
+A simple [Markdown Student Portfolio Starter Template](https://github.com/paulhibbitts/docsify-this-markdown-portfolio-starter) (based on [Markdown Portfolio Template](https://github.com/thoresonjd/markdown-portfolio-template) by [Justin Thoreson](https://github.com/thoresonjd)) which is viewable on both GitHub and with Docsify-This.net, displayed by Docsify-This as a:
 * [Website](https://docsify-this-test-v2.netlify.app/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-markdown-student-portfolio-starter/main&homepage=README.md "Docsify-This Markdown Student Portfolio Starter Template")  
 * [Website with automatic light/dark theme switching](https://docsify-this-test-v2.netlify.app/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-markdown-student-portfolio-starter/main&homepage=README.md&dark-mode=true "Docsify-This Markdown Student Portfolio Starter Template")  
 * [Website using the Merriweather font](https://docsify-this-test-v2.netlify.app/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-markdown-portfolio-starter-template/main&homepage=README.md&font-family=Merriweather,Georgia,serif "Docsify-This Markdown Student Portfolio Starter Template")
