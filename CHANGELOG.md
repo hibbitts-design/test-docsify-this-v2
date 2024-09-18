@@ -30,6 +30,7 @@
 **Improved:**
 * Updated ReadMe
 * Minor Web Page Builder UI updates
+* Minor theme update
 
 ## [1.9.11] - 09/03/2024🏫
 

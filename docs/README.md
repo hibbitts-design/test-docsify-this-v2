@@ -56,7 +56,7 @@ Page layout:
 
 <hr>
 
-<div class="docsifythisurlbuilderoptionsline">Title on Browser Tab:<br><input style="border-radius: 7px;border-color: #8e8f9d" aria-label="Title on Browser Tab" type="text" maxlength="60" value="Published by Docsify-This" id="browserTabTitle" name="browserTabTitle"></div>
+<div class="docsifythisurlbuilderoptionsline">Title on Browser tab:<br><input style="border-radius: 7px;border-color: #8e8f9d" aria-label="Title on Browser tab" type="text" maxlength="60" value="Published by Docsify-This" id="browserTabTitle" name="browserTabTitle"></div>
 
 <div class='stackedlabeldropdown'>
   <label for="fontfamily">Page font family:</label>
