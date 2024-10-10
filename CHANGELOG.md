@@ -25,6 +25,11 @@
 **Breaking:**
 * With the use of Docsify v5, Legacy Browsers (for example, Internet Explorer 11) are no longer supported 
 
+## [1.9.13] - XX/XX/2024
+
+**Improved:**
+* Support expected passing of id parameter
+
 ## [1.9.12] - 09/18/2024
 
 **Improved:**
